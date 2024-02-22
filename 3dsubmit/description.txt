@@ -1,0 +1,13 @@
+subject1_heavy_stand_fist_bump_p:  The participant #1 performed fist bump with heavy clothing that produces more noise (jackets, coats, ...).
+
+subject3_light_sit_conversation_speech_p: The conversational speech from participant #3 that sitting with light clothing (T-Shirt, light sweater, ...).
+
+subject6_heavy_stand_body_stretching_p: The participant #6 stretched body and yawn with heavy clothing.
+
+subject2_light_sit_body_tapping_p: The participant #2 performed tapping whole body (searching for phone, keys, wallet, ...) with light clothing.
+
+subject2_heavy_stand_conversation_body_p: The conversational speech along with body sounds and gestures from participant #2 that standing with heavy clothing.
+
+subject2_heavy_stand_applause_p: The participant #2 performed applause(i.e. clap hands in front of body) with heavy clothing.
+
+
