@@ -1,0 +1,3 @@
+subject5_light_sit_hands_punch_p_cut_cut1: The participant #5 sat and punched other hand w/ one hand at a time with light clothing.
+
+subject2_heavy_stand_clapping_p_cut_cut1: The participant #2 stood and clapped with heavy clothing to cover as many spatial positions as possible.
